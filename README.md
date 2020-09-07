@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Florian K. I'm 24 years old, studying computer engineering at the BHT, Germany with a focus on embedded systems.
+I'm Florian K. I'm 24 years old, studying technical computer science at the BHT, Germany with a focus on embedded systems.
 
 🌱 I’m currently learning Machine Learning and Neural Networks
 <!--
