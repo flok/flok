@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I'm Florian K. I'm 25 years old, studying computer engineering at the BHT, Germany with a focus on embedded systems.
-
 Currently fiddling with the PS5 Controller and writing my thesis in Data Science
 <!--
 **flok/flok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
