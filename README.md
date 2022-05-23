@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Currently fiddling with the PS5 Controller and writing my thesis in Data Science
+Currently fiddling with the PS5 Controller, AD and ADAS and studying my master degree.
 <!--
 **flok/flok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
