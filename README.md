@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-Currently fiddling with the PS5 Controller, AD and ADAS and studying my master degree.
+Working in AD / ADAS in automotive, PS5 Controller and some rust in the future.
+
 <!--
 **flok/flok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
